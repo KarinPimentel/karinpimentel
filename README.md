@@ -3,9 +3,8 @@
 An international Statistician with 7+ years working with Business Intelligence and Data Analysis.
 
  <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/KarinPimentel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karinpimentel&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinpimentel&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   
   ##
