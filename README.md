@@ -1,9 +1,10 @@
 ### Hey 😊 I’m Karin!
-  
+<p/>
+<p/>  
  <div> 
   <a href="https://www.linkedin.com/in/karinpimentel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
-
+<p>
 
 An international Statistician with 7+ years working with Business Intelligence and Data Analysis.
 
@@ -17,9 +18,9 @@ I’m a big believer that when data, BI and BA are combined, it becomes possible
 - Saved 25% of total time in a daily activity of the Customer Success team by providing information with interactive dashboards, effective visualizations, and automated updates.
 
 💻 Projects I have worked on recently:
-• Structured 5+ new databases closely with the development and data engineering teams;
-• Structured the processes of stock control for 3.000+ customers in collaboration with the manufacturing team;
-• ETL projects that integrate 6 data sources into the data warehouse.
+- Structured 5+ new databases closely with the development and data engineering teams;
+- Structured the processes of stock control for 3.000+ customers in collaboration with the manufacturing team;
+- ETL projects that integrate 6 data sources into the data warehouse.
 
 ✈️ International experience:
 December 2019 - June 2020 - Lived in Europe to improve my English skills.
